@@ -1,0 +1,62 @@
+h1{
+    
+    margin-block-start: -10%;
+}
+body{
+    background-image: linear-gradient(to left, blue, rgb(223, 226, 238), rgb(20, 4, 250));
+}
+.login-box 
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px; 
+    margin: 0 auto;
+    margin-top: 5%;
+}
+.main
+{
+    width: 120%;
+    padding: 70px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-size: cover;
+    box-shadow: 0 0 10px rgba(30, 194, 74, 0.1);
+}
+.login-box input 
+{
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #010101;
+    border-radius: 3px;
+}
+.butt 
+{
+    align-items: center;
+    width: 95%;
+    padding: 10px;
+    background-color: #00ff0d;
+    color: #fff;
+    border: none; 
+    border-radius: 35px;
+    cursor: pointer;
+}
+.butt:hover 
+{
+    background-color: #f90505;
+}
+.but
+{
+    width: 95%;
+    padding: 10px;
+    background-color: #00bbff;
+    color: #fff;
+    border: none;
+    border-radius: 33px;
+    cursor: pointer;
+}
+.but:hover
+{
+    background-color: rgb(255, 0, 0);
+}
