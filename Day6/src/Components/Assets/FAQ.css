@@ -1,0 +1,42 @@
+/* FAQ.css */
+
+/* Style for the FAQ container */
+.faq-container {
+    margin-top: 20px;
+  }
+  
+  /* Style for each FAQ item */
+  .faq-item {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  /* Style for FAQ question */
+  .faq-item .question {
+    font-weight: bold;
+    font-size: 18px;
+    color: #333;
+  }
+  
+  /* Style for FAQ answer */
+  .faq-item .answer {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  /* Style for the FAQ page title */
+  .faq-title {
+    font-family: 'Satisfy', cursive;
+    font-size: 38px;
+    margin-top: 20px;
+  }
+  
+  /* Style for images (if any) in the FAQ */
+  .faq-item img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+  
